@@ -10,4 +10,4 @@ def test_sub():
     assert sub(5, -1) == 6
     assert sub(5, 0) == 5
     assert sub(-5, 0) == -5
-    assert sub(-5, -1) == -6
+    assert sub(-5, -1) == -4
